@@ -5,4 +5,5 @@ public class Arbitro extends Integrante {
        super(nombre);
     }
     //Prueba de rama1
+    //Prueba desde github
 }
